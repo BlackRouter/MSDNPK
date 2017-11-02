@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <w10>
+    <Edition>Enterprise LTSB</Edition>
+    <Key>BNJ87-JYH2B-DGXWM-JJVMR-Q9MP</Key>
+    <type>Mak</type>
+    <MakCount>650</MakCount>
+	<Status>Tested</Status>
+	<Date>2017/11/02 - 12:51</Date>
+</w10>
+ <w10>
     <Edition>Enterprise</Edition>
     <Key>BNJ87-JYH2B-DGXWM-JJVMR-Q9MP</Key>
     <type>Mak</type>
