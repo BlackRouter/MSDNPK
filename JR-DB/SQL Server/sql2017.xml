@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
- <sql2012>
-    <Edition>Enterprise LS</Edition>
-    <Key>BNJ87-JYH2B-DAXWM-JJVMR-ORET</Key>
+ <sql2017>
+    <Edition>Enterprise</Edition>
+    <Key>TDKQD-PKV44-PJT4N-TCJG2-3YJ6B</Key>
     <type>Retail</type>
-    <MakCount>6550</MakCount>
-	<Status>-</Status>
-	<Date>2018/11/02 - 18:51</Date>
-</sql2012>
+    <MakCount>-</MakCount>
+	<Status>Worked</Status>
+	<Date>2017/11/03 - 16:38</Date>
+</sql2017>
+<sql2017>
+   <Edition>Enterprise Core</Edition>
+   <Key>6GPYM-VHN83-PHDM2-Q9T2R-KBV83</Key>
+   <type>Retail</type>
+   <MakCount>-</MakCount>
+ <Status>Worked</Status>
+ <Date>2017/11/03 - 16:38</Date>
+</sql2017>
+<sql2017>
+   <Edition>Standard</Edition>
+   <Key>PHDV4-3VJWD-N7JVP-FGPKY-XBV89</Key>
+   <type>Retail</type>
+   <MakCount>-</MakCount>
+ <Status>Worked</Status>
+ <Date>2017/11/03 - 16:38</Date>
+</sql2017>
+<sql2017>
+   <Edition>Web</Edition>
+   <Key>WV79P-7K6YG-T7QFN-M3WHF-37BXC</Key>
+   <type>Retail</type>
+   <MakCount>-</MakCount>
+ <Status>Worked</Status>
+ <Date>2017/11/03 - 16:38</Date>
+</sql2017>
+<sql2017>
+   <Edition>Developer</Edition>
+   <Key>22222-00000-00000-00000-00000</Key>
+   <type>Retail</type>
+   <MakCount>-</MakCount>
+ <Status>Worked</Status>
+ <Date>2017/11/03 - 16:38</Date>
+</sql2017>
 </BlackRoter>
