@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<w10>
+    <Edition>Yasser</Edition>
+    <Key>BNJ87-JYH2B-DAXWM-JJVMR-ORET</Key>
+    <type>Retail</type>
+    <MakCount>6550</MakCount>
+	<Status>tested</Status>
+	<Date>2015/11/02 - 18:51</Date>
+</w10>
  <w10>
     <Edition>Enterprise LS</Edition>
     <Key>BNJ87-JYH2B-DAXWM-JJVMR-ORET</Key>
