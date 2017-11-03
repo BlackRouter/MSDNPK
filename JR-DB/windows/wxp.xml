@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <wxp>
-    <Edition>Enterprise LS</Edition>
-    <Key>BNJ87-JYH2B-DAXWM-JJVMR-ORET</Key>
+    <Edition>XP SP3</Edition>
+    <Key>JD3T2-QH36R-X7W2W-7R3XT-DVRPQ</Key>
     <type>Retail</type>
-    <MakCount>6550</MakCount>
-	<Status>-</Status>
-	<Date>2018/11/02 - 18:51</Date>
+    <MakCount>-</MakCount>
+	<Status>Not Tested</Status>
+	<Date>2017/11/03 - 22:51</Date>
+</wxp>
+<wxp>
+   <Edition>XP SP3</Edition>
+   <Key> JBC46-Q42FD-PGGMC-KP38Y-6MQD8</Key>
+   <type>Retail</type>
+   <MakCount>-</MakCount>
+ <Status>Not Tested</Status>
+ <Date>2017/11/03 - 22:51</Date>
 </wxp>
 </BlackRoter>

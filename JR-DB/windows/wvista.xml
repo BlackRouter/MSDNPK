@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <wvista>
-    <Edition>Enterprise LS</Edition>
-    <Key>BNJ87-JYH2B-DAXWM-JJVMR-ORET</Key>
-    <type>Retail</type>
-    <MakCount>6550</MakCount>
-	<Status>-</Status>
-	<Date>2018/11/02 - 18:51</Date>
+    <Edition>Vista SP2</Edition>
+    <Key>C3DFD-RW7JQ-9CXDH-F84YD-YKQ3J</Key>
+    <type>Mak</type>
+    <MakCount>+400</MakCount>
+	<Status>Worked</Status>
+	<Date>2017/11/03 - 21:51</Date>
+</wvista>
+<wvista>
+   <Edition>Vista SP2</Edition>
+   <Key>H22B4-GG69T-H49P7-7KT9R-XYK87</Key>
+   <type>Mak</type>
+   <MakCount>+400</MakCount>
+ <Status>Worked</Status>
+ <Date>2017/11/03 - 21:51</Date>
+</wvista>
+<wvista>
+   <Edition>Vista SP2</Edition>
+   <Key>48R7R-2QKRQ-HQW22-HXQQR-TDCR9</Key>
+   <type>Mak</type>
+   <MakCount>0</MakCount>
+ <Status>Not Tested</Status>
+ <Date>2017/11/03 - 21:51</Date>
 </wvista>
 </BlackRoter>
