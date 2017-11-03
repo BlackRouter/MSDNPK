@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <ex2010>
-    <Edition>Enterprise LS</Edition>
-    <Key>BNJ87-JYH2B-DAXWM-JJVMR-ORET</Key>
+    <Edition>Enterprise</Edition>
+    <Key>GVMTV-GMXWH-C234M-8FMWP-TFPFP</Key>
     <type>Retail</type>
-    <MakCount>6550</MakCount>
-	<Status>-</Status>
-	<Date>2018/11/02 - 18:51</Date>
+    <MakCount>-</MakCount>
+	<Status>Worked</Status>
+	<Date>2017/11/03 - 21:51</Date>
+</ex2010>
+<ex2010>
+   <Edition>Standard</Edition>
+   <Key>XJG6B-4D4YV-4M338-Q42H6-39VT2</Key>
+   <type>Retail</type>
+   <MakCount>-</MakCount>
+ <Status>Worked</Status>
+ <Date>2017/11/03 - 21:51</Date>
 </ex2010>
 </BlackRoter>

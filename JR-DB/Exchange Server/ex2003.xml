@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <ex2003>
-    <Edition>Enterprise LS</Edition>
-    <Key>BNJ87-JYH2B-DAXWM-JJVMR-ORET</Key>
-    <type>Retail</type>
-    <MakCount>6550</MakCount>
-	<Status>-</Status>
-	<Date>2018/11/02 - 18:51</Date>
+   <Edition>Not key available</Edition>
+   <Key>Not key available</Key>
+   <type>-</type>
+   <MakCount>-</MakCount>
+ <Status>-</Status>
+ <Date>-</Date>
 </ex2003>
 </BlackRoter>
