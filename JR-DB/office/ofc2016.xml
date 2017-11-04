@@ -1,11 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <ofc2016>
-    <Edition>Enterprise LS</Edition>
-    <Key>BNJ87-JYH2B-DAXWM-JJVMR-ORET</Key>
-    <type>Retail</type>
-    <MakCount>6550</MakCount>
+    <Edition>ProPlusVL</Edition>
+    <Key>76TRC-N3P3X-CXB24-F46MX-P377M</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
 	<Status>-</Status>
-	<Date>2018/11/02 - 18:51</Date>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+ <ofc2016>
+    <Edition>ProPlusVL</Edition>
+    <Key>32D9V-BNDP8-QXWJK-TK7QQ-G83MB</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+ <ofc2016>
+    <Edition>ProjectProVL</Edition>
+    <Key>4BBNY-WW8FH-4HFJC-Y46YK-M983H</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+ <ofc2016>
+    <Edition>Visio ProVL</Edition>
+    <Key>N6G3W-4D2P4-6XYTV-H3Q47-HXMWM</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+ <ofc2016>
+    <Edition>StandardVL</Edition>
+    <Key>6NR8K-X8P89-BVXJC-8C4JG-8TYWC</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+ <ofc2016>
+    <Edition>Project StdVL</Edition>
+    <Key>2Q4H2-YRNT4-PKT8F-XTF8M-3GPQQ</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Pro Plus</Edition>
+    <Key>B34NJ-JK388-GYP22-B94W6-238DP</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Visio Pro</Edition>
+    <Key>J4N37-Y3MRQ-3YDJD-RJ3J2-KW3VM</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Visio Pro</Edition>
+    <Key>T4929-9MNW8-TM4C8-M9H2K-66PYB</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Visio Pro</Edition>
+    <Key>WFXMH-NQQ6J-M4RGH-64FTK-DYJDY</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Project Pro </Edition>
+    <Key>86N3T-CRJRB-W4Q94-TX8BQ-BG97K</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Project Pro </Edition>
+    <Key>RCNB2-9BV8F-JM23C-CMWRF-GXX7K</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Project Pro </Edition>
+    <Key>NGH8P-CYFD7-977HK-8CVRG-D3W99</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Pro</Edition>
+    <Key>D77NY-XJ4WK-3MGPX-FGBYF-QGPX7</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Project Std</Edition>
+    <Key>M9R3N-WJ6VB-FP3B8-J94M8-PKCQM</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Home Business</Edition>
+    <Key>YDGFB-CFN3G-JQRFM-3CV4K-FRG7X</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Home Student</Edition>
+    <Key>RXVQN-93PF2-3H94R-BFKFH-GCQH9</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Word</Edition>
+    <Key>BYJVM-QHNFB-BBFFX-2VRHG-6F4J3</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Word</Edition>
+    <Key>D6KGQ-HNXTC-8WHPF-7MHTQ-PYVCQ</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Word</Edition>
+    <Key>FNMBC-KWVK8-K3BJR-4XHBW-HMH83</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Word</Edition>
+    <Key>PJNY4-Q23VG-2WQGX-VHYKD-PYVCQ</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Access</Edition>
+    <Key>CNXXK-G77YK-DBGQ2-6T9PT-C9XVF</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Access</Edition>
+    <Key>VN9KM-RKM4H-K9PBY-J9R6R-GXXVF</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Outlook</Edition>
+    <Key>8NFD7-9MT3V-8RVC2-FW23H-G6PPX</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Outlook</Edition>
+    <Key>846DJ-N9GBP-2P46T-VMR4P-TMT89</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Outlook</Edition>
+    <Key>3MBDN-FXD8Q-GVGGK-TX8H4-6Q76K</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Outlook</Edition>
+    <Key>74WC9-BNH6Q-HTPM7-CFTMP-HH689</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2016>
+<ofc2016>
+    <Edition>Publisher</Edition>
+    <Key>JXNBM-RP46P-F3KTQ-44W8T-CGYVR</Key>
+    <type>Retail</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
 </ofc2016>
 </BlackRoter>
