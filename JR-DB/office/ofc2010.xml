@@ -1,11 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <ofc2010>
-    <Edition>Enterprise LS</Edition>
-    <Key>BNJ87-JYH2B-DAXWM-JJVMR-ORET</Key>
-    <type>Retail</type>
-    <MakCount>6550</MakCount>
+    <Edition>Office 2010 ProPlusVL</Edition>
+    <Key>2W2KG-6BVG8-3YKV3-HMHXT-6X38Q</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
 	<Status>-</Status>
-	<Date>2018/11/02 - 18:51</Date>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 ProPlusVL</Edition>
+    <Key>3472M-DBK2Y-X4R9J-CB7QG-3DTX4</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 ProPlusVL</Edition>
+    <Key>4BH9H-RJR8W-QR4FH-YKHXB-MG3MV</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 ProPlusVL</Edition>
+    <Key>4CBP2-HC7KT-B8DK7-XHFBK-G2JFQ</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 ProPlusVL</Edition>
+    <Key>7PDJX-HDPQK-YVYTY-PJXY4-KFM6Y</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 ProPlusVL</Edition>
+    <Key>BCQRM-7JRRG-GRCFJ-2JC9K-7QQF9</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 StandardVL</Edition>
+    <Key>D4D7T-WG2TT-GY4W2-YC3TD-8JWW6</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 VisioPrem VL</Edition>
+    <Key>49DHD-WV2DG-YPQCR-4G8B6-FFDWJ</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 VisioPro VL</Edition>
+    <Key>W23J8-YQ3TC-Q77Q8-HYRMY-VXWJ8</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 VisioPro VL</Edition>
+    <Key>2R89H-MX9TC-QHCVH-9FTG2-T8KQ3</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 VisioPro VL</Edition>
+    <Key>2WGMM-V4VXJ-8FRKG-922TD-8VVK6</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 VisioPro VL</Edition>
+    <Key>38YPJ-JPMJ7-DHX9M-MKM99-TCTYV</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>Office 2010 VisioPro VL</Edition>
+    <Key>387KX-MTKT6-22JY7-4B678-YY8PX</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+ <ofc2010>
+    <Edition>ProjectProVL</Edition>
+    <Key>C9DDJ-XGJT8-W883V-WFPRB-T3GBX</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+<ofc2010>
+    <Edition>ProjectProVL</Edition>
+    <Key>J29CH-GXH4V-FYTCB-MKYVD-FB9PB</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+<ofc2010>
+    <Edition>ProjectProVL</Edition>
+    <Key>P6MBB-36PYC-GCYBY-Y63MB-QVXV6</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+<ofc2010>
+    <Edition>ProjectProVL</Edition>
+    <Key>TK7WV-9DQT4-MQM8K-F24DP-8QGWC</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
+</ofc2010>
+<ofc2010>
+    <Edition>ProjectProVL</Edition>
+    <Key>YGTKG-G4FM7-TXJCP-HYCHK-YBRR4</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 21:51</Date>
 </ofc2010>
 </BlackRoter>
