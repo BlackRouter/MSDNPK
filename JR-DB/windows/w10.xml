@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <w10>
+    <Edition>Win 10 RTM EnterpriseS OEM:NONSLP</Edition>
+    <Key>RMQY8-NW2DK-36YVM-YMHWQ-WQMPK</Key>
+    <type>OEM:NONSLP</type>
+    <MakCount>-</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/04 - 22:47</Date>
+</w10>
+<w10>
     <Edition>Enterprise</Edition>
     <Key>DP744-BJNP4-FDMC2-9V8VV-JQKR4</Key>
     <type>Mak</type>
