@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <w8.1>
-    <Edition>Enterprise LS</Edition>
-    <Key>BNJ87-JYH2B-DAXWM-JJVMR-ORET</Key>
-    <type>Retail</type>
-    <MakCount>6550</MakCount>
+    <Edition>Enterprise</Edition>
+    <Key>N94JC-YHM9D-4HBB7-Q63GM-43JK3</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
 	<Status>-</Status>
-	<Date>2018/11/02 - 18:51</Date>
+	<Date>2017/11/05 - 15:00</Date>
 </w8.1>
+ <w8.1>
+    <Edition>Enterprise</Edition>
+    <Key>GH3NY-H62RR-YWXWV-734MB-FGB93</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/05 - 15:00</Date>
+</w8.1>
+ <w8.1>
+    <Edition>Enterprise</Edition>
+    <Key>J4GXG-8RN8X-3K4HK-9GRWQ-C36VD</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/05 - 15:00</Date>
+</w8.1>
+ <w8.1>
+    <Edition>Enterprise</Edition>
+    <Key>KBN88-BYDXD-X6HQ7-3KHFC-W2M93</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/05 - 15:00</Date>
+</w8.1>
+ <w8.1>
+    <Edition>Enterprise</Edition>
+    <Key>DDTRW-HNDHV-KP2J7-BJRGG-RRFX3</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/05 - 15:00</Date>
+</w8.1>
+ <w8.1>
+    <Edition>Enterprise</Edition>
+    <Key>ND6FT-BKQH6-4Y7JB-B7XJ2-9P9HD</Key>
+    <type>Mak</type>
+    <MakCount>0</MakCount>
+	<Status>-</Status>
+	<Date>2017/11/05 - 15:00</Date>
+</w8.1>
+
+
 </BlackRoter>
